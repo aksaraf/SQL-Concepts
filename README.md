@@ -8,5 +8,5 @@ Query is a piece of code inducing a computer to execute a certain operation that
 
 SQL is a declarative language because while coding we are not interested in how the job is done but interested in what result we want to obtain.
 
-# Components of SQL's Syntax
+### Components of SQL's Syntax
 1. Data definition language (DDL): A set of statements that allows the user to define or modify data structures and objects, such as tables.
