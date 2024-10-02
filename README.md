@@ -36,3 +36,17 @@ SQL is a declarative language because while coding we are not interested in how 
        ```SQL
        TRUNCATE object_type object_name;
        ```
+
+### Date Functions (MySQL)
+1. CURDATE(), CURRENT_DATE, CURRENT_DATE(): Returns current date in YYYY-MM-DD format as a text.
+   ```SQL
+   SELECT CURDATE(), CURRENT_DATE, CURRENT_DATE();
+   ```
+2. NOW(): Returns both current date and time.
+   ```SQL
+   SELECT NOW();
+   ```
+3. CURRENT_TIME(), CURRENT_TIME, CURTIME(): Returns current time as a string in the hh:mm:ss format.
+   ```SQL
+   SELECT CURRENT_TIME(), CURRENT_TIME, CURTIME();
+   ```
