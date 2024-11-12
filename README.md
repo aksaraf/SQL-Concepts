@@ -36,7 +36,8 @@ SQL is a declarative language because while coding we are not interested in how 
        ```SQL
        TRUNCATE object_type object_name;
        ```
-2. **Data Manipulation Language(DML):**                                                                                                                                                                                                                                                                                                                                             
+2. **Data Manipulation Language(DML):**
+   1.                                                                                                                                                                                                                                                                                                                                           
 
 ### Date Functions (MySQL)
 1. CURDATE(), CURRENT_DATE, CURRENT_DATE(): Returns current date in YYYY-MM-DD format as a text.
